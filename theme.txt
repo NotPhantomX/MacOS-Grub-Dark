@@ -1,6 +1,6 @@
 # Global properties
 title-text: ""
-desktop-image: "background.jpg"
+desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Unifont Regular 18"
 terminal-box: "terminal_box_*.png"
